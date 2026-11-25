@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zumaxmarketing.github.io/zumax-digital/sitemap.xml
